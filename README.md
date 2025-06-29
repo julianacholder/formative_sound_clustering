@@ -47,7 +47,7 @@ This project applies unsupervised machine learning techniques to cluster an unla
   - Noise points: 138 (4.6%)
   - Silhouette score: 0.195
 
-## 📈 Key Results
+##  Key Results
 
 ### Performance Comparison
 | Algorithm | Silhouette Score | Davies-Bouldin Index | Number of Clusters | Cluster Balance |
